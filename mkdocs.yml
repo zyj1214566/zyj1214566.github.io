@@ -227,5 +227,6 @@ nav:
   - "Robo": 
     - nlp1.md
     - nlp2.md
+    - pandas.md
 
   
