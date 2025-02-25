@@ -224,9 +224,14 @@ plugins:
 nav:
   - Home: 
       - index.md
-  - "Robo": 
-    - nlp1.md
-    - nlp2.md
-    - pandas.md
+  - "NLP": 
+    - nlp常用工具包.md
+  
+
+  - "CS":
+    - "Python":
+      - pandas.md
+ 
+      
 
   
