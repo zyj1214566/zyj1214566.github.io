@@ -225,12 +225,12 @@ nav:
   - Home: 
       - index.md
   - "NLP": 
-    - nlp常用工具包.md
+    - NLP/nlp常用工具包.md
   
 
   - "CS":
     - "Python":
-      - pandas.md
+      - CS/pandas.md
  
       
 
