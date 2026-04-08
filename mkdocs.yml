@@ -231,6 +231,8 @@ nav:
   - "CS":
     - "Python":
       - CS/pandas.md
+    - "Linux":
+      - CS/Linux/nohup-screen-tmux.md
     - "DevOps":
       - CS/DevOps/docker-migration.md
  
